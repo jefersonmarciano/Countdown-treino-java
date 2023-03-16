@@ -1,4 +1,7 @@
 # Count-Down-filme-homem-aranha
+link para o vercel
+https://countdown-treino-javascript.vercel.app/
+
 Site a seguir é um teste em javaScript, usando um temporizador 
 ![image](https://user-images.githubusercontent.com/44215511/225741386-301a44be-ffde-4e7a-83ea-ef8c1f12561e.png)
 Logo da imagem ao clicar o leva para o trailer do filme oficial no youtube
